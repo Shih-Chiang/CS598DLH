@@ -1,8 +1,6 @@
 # CS598DLH
 Team Number: 113
 Team Member: Shih-Chiang Lee, Xiaoyi Jie
-# The paper we choose is No.278, "patient2vec: a personalized interpretable deep representation of the longitudinal electronic health record"
+# The paper we choose is No.39, "A study of deep learning methods for de-identification of clinical notes in crossinstitute settings"
 Citation to the original paper:
-Zhang, J., Kowsari, K., Harrison, J. H., Lobo, J. M. & Barnes, L. E. patient2Vec:
-a personalized interpretable deep representation of the longitudinal electronic
-health record. IEEE Access 6, 65333–65346 (2018).
+Yang, X., Lyu, T., Li, Q. et al. A study of deep learning methods for de-identification of clinical notes in cross-institute settings. BMC Med Inform Decis Mak 19, 232 (2019). https://doi.org/10.1186/s12911-019-0935-4
