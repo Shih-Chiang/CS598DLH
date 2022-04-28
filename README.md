@@ -15,5 +15,4 @@ It guides you to download the n2b2 dataset, which is same as i2b2. It has some e
 The genia could be applied through https://data.world/chhs/579fbb1f-0078-4fe3-9bc8-c09d91ad3589
 
 # Table of result
-https://github.com/Shih-Chiang/CS598DLH/blob/main/result/table.PNG?raw=true
 ![image](https://github.com/Shih-Chiang/CS598DLH/blob/main/result/table.PNG?raw=true)
