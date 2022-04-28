@@ -7,7 +7,7 @@ Yang, X., Lyu, T., Li, Q. et al. A study of deep learning methods for de-identif
 
 # Using Explaination
 It is a reprocuce of the paper's experiment.
-To run this code, first need to use the main.py in the Pre-processing folder to do the pre-processing. Then, change the data path of training data and test data in the task_ner_for_genia.py. In the code we uploaded, it is the case of using i2b2 data to train and using i2b2 to test. We also done the case of using genia data to train and using genia data to test; and the case of using both i2b2 data and genia data to train and genia data to test. The result is stored in the result folder.
+To run this code, first need to use the main.py in the Pre-processing folder to do the pre-processing. Then, change the data path of training data and test data in the task_ner_for_genia.py. The hidden_dropout_prob, hidden_size, lstm_dim and epochs are stored in config.py. In the code we uploaded, it is the case of using i2b2 data to train and using i2b2 to test. We also done the case of using genia data to train and using genia data to test; and the case of using both i2b2 data and genia data to train and genia data to test. The result is stored in the result folder.
 
 # Data download instruction
 The i2b2 data could be applied through https://www.i2b2.org/NLP/DataSets/
